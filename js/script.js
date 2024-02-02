@@ -1,6 +1,6 @@
 function IniciarSesión(){
 
-        if(document.getElementById("name").value == null || document.getElementById("name").value == ""){
+        if(document.getElementById("name").value == null || document.getElementById("name").value == "" || document.getElementById("password").value == null || document.getElementById("password").value == ""){
     
         }
         else{
